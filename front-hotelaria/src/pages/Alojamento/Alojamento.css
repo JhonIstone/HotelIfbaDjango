@@ -1,0 +1,34 @@
+.containerAlojamento {
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.imageAlojamento {
+  width: 700px;
+}
+
+.descriptions {
+  margin-top: 10%;
+}
+
+@media (max-width: 999px) {
+  .imageAlojamento {
+    width: 800px;
+  }
+
+  .containerAlojamento {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .descriptions {
+    margin-top: 20px;
+  }
+
+  .form-control {
+    width: 300px;
+  }
+}

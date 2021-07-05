@@ -1,0 +1,18 @@
+#barra {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn.focus,
+.btn:focus {
+  box-shadow: none;
+}
+.title {
+  color: white;
+}
+
+#dropdown-button-drop-left {
+  font-size: x-large;
+  color: white;
+}

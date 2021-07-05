@@ -1,0 +1,26 @@
+.containerFilter {
+  border: solid black 2px;
+  border-radius: 10px;
+  width: 250px;
+  padding: 0 2%;
+  float: left;
+
+  margin: 2% 2%;
+}
+
+.formFilter {
+  display: flex;
+  flex-direction: column;
+}
+
+strong {
+  margin-top: 10px;
+}
+
+label {
+  margin-bottom: 0;
+}
+
+.submitButton {
+  margin: 10px 0;
+}

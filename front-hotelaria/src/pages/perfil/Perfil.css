@@ -1,0 +1,11 @@
+#containerPerfil {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 2%;
+}
+
+.formPerfil {
+  width: 50%;
+}

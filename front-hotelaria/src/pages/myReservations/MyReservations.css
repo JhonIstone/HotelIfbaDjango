@@ -1,0 +1,13 @@
+.containerMyreservations {
+  padding: 2%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.constainerCards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
